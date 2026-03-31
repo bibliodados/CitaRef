@@ -1,0 +1,887 @@
+Para organizar o texto em Markdown e melhorar a compreensão da estrutura do prompt, segue abaixo o texto formatado:
+
+```markdown
+# ABNT NBR 10520:2023
+
+## Informação e documentação — Citações em documentos — Apresentação
+
+### Prefácio
+
+A Associação Brasileira de Normas Técnicas (ABNT) é o Foro Nacional de Normalização. As Normas Brasileiras, cujo conteúdo é de responsabilidade dos Comitês Brasileiros (ABNT/CB), dos Organismos de Normalização Setorial (ABNT/ONS) e das Comissões de Estudo Especiais (ABNT/CEE), são elaboradas por Comissões de Estudo (CE), formadas pelas partes interessadas no tema objeto da normalização.
+
+Os Documentos Técnicos ABNT são elaborados conforme as regras da ABNT Diretiva 2.
+
+### Sumário
+
+1. Escopo
+2. Referência normativa
+3. Termos e definições
+4. Localização
+5. Regras gerais
+6. Sistema de chamada
+   - 6.1 Sistema autor-data
+   - 6.2 Sistema numérico
+7. Citação
+   - 7.1 Citação direta
+   - 7.2 Citação indireta
+   - 7.3 Citação de citação
+8. Notas
+   - 8.1 Notas de referência
+   - 8.2 Notas explicativas
+9. Anexo A (informativo) Lista de abreviaturas
+
+### 1. Escopo
+
+Esta Norma especifica as características exigíveis para a apresentação de citações em documentos de diversos formatos.
+
+### 2. Referência normativa
+
+O documento a seguir é citado no texto de tal forma que seu conteúdo, total ou parcial, constitui requisitos para este Documento. Para referências datadas, aplicam-se somente as edições citadas. Para referências não datadas, aplicam-se as edições mais recentes do referido documento (incluindo emendas).
+
+- **ABNT NBR 6023**: Informação e documentação – Referências – Elaboração.
+
+### 3. Termos e definições
+
+Para os efeitos deste documento, aplicam-se os seguintes termos e definições:
+
+- **Autor**: Pessoa física responsável pela criação do conteúdo intelectual ou artístico de um documento.
+- **Autor-entidade**: Pessoa jurídica, evento, instituição, organização, empresa, comitê, comissão, entre outros, responsável por publicações em que não se distingue a autoria pessoal.
+- **Chamada**: Elemento ou conjunto de elementos que indica a fonte.
+- **Citação**: Menção de uma informação extraída de outra fonte.
+- **Citação de citação**: Citação direta ou indireta de um texto a cuja fonte original não se teve acesso.
+- **Citação direta**: Transcrição textual de parte da obra do autor consultado.
+- **Citação indireta**: Texto baseado na obra do autor consultado.
+- **Fonte**: Documento do qual foi extraída a informação.
+- **Nota de referência**: Nota que indica a fonte consultada ou remete a outras partes da obra em que o assunto foi abordado.
+- **Notas**: Indicações, observações ou aditamentos ao texto, feitos pelo autor, tradutor ou editor.
+- **Nota explicativa**: Nota usada para comentários, esclarecimentos ou explanações que não possam ser incluídos no texto.
+- **Pessoa jurídica**: Ver autor-entidade.
+
+### 4. Localização
+
+As citações podem aparecer em qualquer parte do documento.
+
+### 5. Regras gerais
+
+As citações devem ser conforme 5.1 a 5.4.
+
+#### 5.1 Correlacionar na lista de referências ou em notas
+
+As referências devem ser elaboradas conforme a ABNT NBR 6023.
+
+**Exemplo 1**:
+
+Na citação:
+```
+“Poucos estudos têm sido realizados em países de renda baixa e média [...]” (Silva, 2019, p. 1).
+```
+Na referência:
+```
+SILVA, Antônio Augusto Moura da. Intervenções precoces a redução de vulnerabilidades em melhora do desenvolvimento infantil. Cadernos de Saúde Pública, Rio de Janeiro, v. 35, n. 3, p. 1-3, mar. 2019. DOI: https://doi.org/10.1590/0102-311X00030519. Disponível em: https://www.scielosp.org/article/csp/2019.v35n3/e00030519/. Acesso em: 27 jun. 2019.
+```
+
+**Exemplo 2**:
+
+Na citação:
+```
+Segundo a World Health Organization (WHO), o tratamento da tuberculose tem uma abordagem mais eficaz e menor probabilidade de provocar efeitos colaterais adversos 1.
+```
+Na nota:
+```
+1 WORLD HEALTH ORGANIZATION. New WHO recommendations to accelerate progress on TB. Geneva: World Health Organization, 20 Mar. 2019. Disponível em: http://www.who.int. Acesso em: 21 mar. 2019.
+```
+
+**Exemplo 3**:
+
+```
+O tabagismo mata cerca de oito milhões de pessoas em todo mundo (WORLD HEALTH ORGANIZATION, [20--?]).
+```
+
+#### 5.2 Supressões, interpolações, acréscimos, comentários, ênfases ou destaques
+
+Devem ser indicados conforme a seguir. O ponto final deve ser usado para encerrar a frase e não a citação.
+
+- **Supressões**: `[...];`
+- **Interpelações, acréscimos ou comentários**: `[ ];`
+- **Ênfases ou destaques**: Sublinhado, negrito ou itálico.
+
+**Exemplo 1**:
+
+```
+O artigo 5º da Constituição de 1988 reforça que “todos são iguais perante a lei, sem distinção de qualquer natureza [...]” (Brasil, 1988, p. 5).
+```
+
+**Exemplo 2**:
+
+```
+“Agora eu quero contar as [verdadeiras] histórias da beira do cais da Bahia” (Amado, 1936, p. 5).
+```
+
+**Exemplo 3**:
+
+```
+Segundo Brody e Harnad (2004, slide 2, tradução nossa, grifo nosso), “o acesso aberto maximiza e acelera o impacto das pesquisas e, consequentemente, sua produtividade, progresso e recompensa”.
+```
+
+**Exemplo 4**:
+
+```
+[...] regularidade discursiva: a juventude não é só um signo nem se reduz aos atributos ‘juvenis’ de uma classe. As modalidades sociais de ser jovem dependem da idade, da geração, do crédito vital, da classe social, do marco institucional (das instituições) e do gênero. Há mais possibilidades de se ser ‘juvenil’ quando se é rico e homem. Mas, mesmo entre os pobres, é possível viver essa condição, através do acesso a outras modalidades, que não ao juvenil massmediatizado, nas suas relações com o bairro, com a família, com as instituições locais, com os avós, filhos, etc. (Barbiani, 2007, p. 145).
+```
+
+#### 5.3 Dados obtidos em fontes não publicadas formalmente
+
+Quando utilizados, devem ser indicados no texto ou em nota.
+
+**Exemplo 1**:
+
+```
+Em discurso proferido por Jadir dos Santos, em 21 de março de 2019, no auditório da ABNT, foram descritos os principais aspectos da cultura organizacional.
+```
+
+**Exemplo 2**:
+
+No texto:
+```
+Jadir dos Santos descreveu os principais aspectos da cultura organizacional1.
+```
+Na nota:
+```
+1 Discurso proferido no auditório da ABNT, em 21 de março de 2019.
+```
+
+**Exemplo 3**:
+
+No texto:
+```
+O Entrevistado 5 considera as bibliotecas comunitárias como iniciativas populares de mediação de informação1.
+```
+Na nota:
+```
+1 Entrevista de pesquisa concedida em 10 de março de 2020, na cidade do Rio de Janeiro.
+```
+
+#### 5.4 Citação de documentos em fase de elaboração
+
+Deve ser mencionado o fato, indicando-se os dados disponíveis em notas.
+
+**Exemplo**:
+
+No texto:
+```
+Segundo a norma de livro, que está em processo de revisão, o resumo do conteúdo pode constar na quarta capa1.
+```
+Na nota:
+```
+1 Projeto da ABNT NBR 6029, a ser publicada pela ABNT.
+```
+
+### 6 Sistema de chamada
+
+As citações devem ser indicadas no texto por um sistema de chamada: autor-data ou numérico. Qualquer que seja o sistema adotado, este deve ser seguido consistentemente ao longo de todo o trabalho, permitindo sua correlação com a referência.
+
+#### 6.1 Sistema autor-data
+
+Deve ser conforme 6.1.1 a 6.1.8.
+
+##### 6.1.1 Indicação de responsabilidade
+
+Deve ser feita conforme 6.1.1.1 a 6.1.1.4.
+
+###### 6.1.1.1 Pessoa física
+
+A indicação deve ser feita pelo sobrenome do autor, em letras maiúsculas e minúsculas.
+
+**Exemplo 1**:
+
+```
+A ironia seria assim uma forma implícita de heterogeneidade mostrada, conforme a classificação proposta por Authier-Revuz (1982).
+```
+
+**Exemplo 2**:
+
+```
+“Apesar das aparências, a desconstrução do logocentrismo não é uma psican
+
+álise da filosofia [...]” (Derrida, 1967, p. 293).
+```
+
+###### 6.1.1.2 Pessoa jurídica
+
+A indicação deve ser feita pelo nome completo ou sigla da instituição, em letras maiúsculas e minúsculas. Recomenda-se que as siglas das instituições sejam grafadas em letras maiúsculas.
+
+**Exemplo 1**:
+
+```
+“A promoção e proteção da saúde são essenciais para o bem-estar do homem e para o desenvolvimento econômico e social sustentável” (Organização Mundial da Saúde, 2010, p. xi).
+```
+
+**Exemplo 2**:
+
+```
+“Durante o Século XV, os portugueses decidiram que a melhor maneira para prosperar economicamente era acabar com o monopólio das cidades italianas, passando a negociar diretamente com o Oriente” (IBGE, 2011, p. 3).
+```
+
+###### 6.1.1.3 Instituição governamental da administração direta
+
+A indicação deve ser pelo nome do órgão superior ou pelo nome da jurisdição a que pertence.
+
+**Exemplo**:
+
+No texto:
+```
+O mecanismo proposto para viabilizar esta concepção é o chamado Contrato de Gestão, que conduziria à captação de recursos privados como forma de reduzir os investimentos públicos no ensino superior (Brasil, 1995).
+```
+Na lista de referências:
+```
+BRASIL. Ministério da Administração Federal e da Reforma do Estado. Plano diretor da reforma do aparelho do Estado. Brasília, DF: Ministério da Administração Federal e da Reforma do Estado, 1995.
+```
+
+###### 6.1.1.4 Fontes sem autoria ou responsabilidade
+
+A indicação deve ser feita pelo título conforme:
+
+- **Pela única palavra, em caso de título composto por uma palavra**;
+
+**Exemplo**:
+
+No texto:
+```
+“O inglês é uma língua germânica” (Inglês, 2012, p. 7).
+```
+Na lista de referências:
+```
+INGLÊS: guia de conversação. São Paulo: Lonely Planet: Globo Livros, 2012.
+```
+
+- **Pela primeira palavra do título, seguida da supressão indicada por […], se o título for composto por mais de uma palavra**;
+
+**Exemplo**:
+
+No texto:
+```
+“As IES implementarão mecanismos democráticos, legítimos e transparentes de avaliação sistemática das suas atividades, levando em conta seus objetivos institucionais e seus compromissos para com a sociedade” (Anteprojeto [...], 1987, p. 55).
+```
+Na lista de referências:
+```
+ANTEPROJETO de lei. Estudos e Debates, Brasília, DF, n. 13, p. 51-60, jan. 1987.
+```
+
+- **Pelo artigo (definido ou indefinido), seguido da palavra subsequente e da supressão indicada por […], se o título iniciar por artigo**;
+
+**Exemplo**:
+
+No texto:
+```
+### 6.1.1.4 No caso de fontes sem autoria ou responsabilidade, a indicação deve ser feita pelo título conforme:
+
+- **a)** Pela única palavra, em caso de título composto por uma palavra.
+
+**Exemplo**:
+```
+No texto: “O inglês é uma língua germânica” (Inglês, 2012, p. 7).
+
+Na lista de referências: INGLÊS: guia de conversação. São Paulo: Lonely Planet: Globo Livros, 2012.
+```
+
+- **b)** Pela primeira palavra do título, seguida da supressão indicada por […], se o título for composto por mais de uma palavra.
+
+**Exemplo**:
+```
+No texto: “As IES implementarão mecanismos democráticos, legítimos e transparentes de avaliação sistemática das suas atividades, levando em conta seus objetivos institucionais e seus compromissos para com a sociedade” (Anteprojeto [...], 1987, p. 55).
+
+Na lista de referências: ANTEPROJETO de lei. Estudos e Debates, Brasília, DF, n. 13, p. 51-60, jan. 1987.
+```
+
+- **c)** Pelo artigo (definido ou indefinido), seguido da palavra subsequente e da supressão indicada por […], se o título iniciar por artigo.
+
+**Exemplo**:
+```
+No texto: E eles disseram “globalização”, e soubemos que era assim que chamavam a ordem absurda em que dinheiro é a única pátria à qual se serve e as fronteiras se diluem, não pela fraternidade, mas pelo sangramento que engorda poderosos sem nacionalidade (A flor [...], 1995, p. 4).
+
+Na lista de referências: A FLOR prometida. Folha de S. Paulo, São Paulo, ano 75, n. 24.105, p. 4, 2 abr. 1995.
+```
+
+- **d)** Pelo monossílabo, seguido da palavra subsequente e da supressão indicada por […], se o título iniciar por monossílabo.
+
+**Exemplo**:
+```
+No texto: “Em Nova Londrina (PR), as crianças são levadas às lavouras a partir dos 5 anos” (Nos canaviais [...], 1995, p. 12).
+
+Na lista de referências: NOS CANAVIAIS, mutilações em vez de lazer e escola. O Globo, Rio de Janeiro, ano 70, n. 22.516, 16 jul. 1995. O País, p. 12.
+```
+
+### 6.1.2 Para citações de fontes com quatro ou mais autores
+
+Pode ser citado o primeiro autor seguido da expressão et al., embora na referência constem todos os autores. Qualquer que seja o recurso utilizado, este deve ser uniforme em todas as citações no documento.
+
+**Exemplo 1**:
+```
+De acordo com Maciel et al. (2019, p. 163), “os resultados dos testes mostraram uma maior prevalência (66,2%) de insatisfação com imagem corporal (Resultados do BSQ) e uma proporção menor proporção (27,78%) de risco para desenvolvimento de transtornos alimentares (Resultados do EAT-26) [...]”.
+```
+
+**Exemplo 2**:
+```
+De acordo com Maciel, Brum, Del Bianco e Costa (2019, p. 163), “os resultados dos testes mostraram uma maior prevalência (66,2%) de insatisfação com imagem corporal (Resultados do BSQ) e uma proporção menor proporção (27,78%) de risco para desenvolvimento de transtornos alimentares (Resultados do EAT-26) [...]”.
+```
+
+### 6.1.3 A indicação de responsabilidade, quando estiver entre parênteses, deve ser acompanhada da data. Em citações diretas, acrescenta-se o número da página ou localização, se houver, após a data.
+
+**Exemplo 1**:
+```
+“Não se mova, faça de conta que está morta” (Clarac; Bonnin, 1985, p. 72).
+```
+
+**Exemplo 2**:
+```
+“Primeiro, o apoio à independência dos povos coloniais já era algo manifesto na sociedade brasileira” (Santos, 2005).
+```
+**Nota**: A fonte consultada, neste Exemplo 2, não é paginada.
+
+**Exemplo 3**:
+```
+A chamada “pandectística havia sido a forma particular pela qual o direito romano fora integrado no século XIX na Alemanha em particular” (Lopes, 2000, p. 225).
+```
+
+**Exemplo 4**:
+```
+De fato, semelhante equacionamento do problema conteria o risco de se considerar a literatura meramente como uma fonte a mais de conteúdos já previamente disponíveis, em outros lugares, para a teologia (Jossua; Metz, 1976).
+```
+
+**Exemplo 5**:
+```
+“Comunidade tem que poder ser intercambiada em qualquer circunstância, sem quaisquer restrições estatais, pelas moedas dos outros Estados-membros” (Comissão das Comunidades Européias, 1992, p. 34).
+```
+
+### 6.1.4 A indicação de responsabilidade, quando incluída na sentença, deve ter a data indicada entre parênteses. Em citações diretas, acrescenta-se o número da página ou localização, se houver, após a data.
+
+**Exemplo 1**:
+```
+Oliveira e Leonardos (1943, p. 146) dizem que a “[...] relação da série São Roque com os granitos porfiróides pequenos é muito clara”.
+```
+
+**Exemplo 2**:
+```
+Esta perspectiva foi influenciada pelo trabalho de Grilli, Marciandaro, Tabellini, Malinvauld e Pagano (1991) com a divisão da independência entre política e economia.
+```
+
+**Exemplo 3**:
+```
+Conforme a Organização para Cooperação e Desenvolvimento Econômico (2015, p. 18), “as crianças precisam de um conjunto equilibrado de capacidades cognitivas e socioemocionais para se adaptar ao mundo atual, cada vez mais exigente, imprevisível e mutante”.
+```
+
+**Exemplo 4**:
+```
+Merriam e Caffarella (1991) observam que a localização de recursos tem um papel crucial no processo de aprendizagem autodirigida.
+```
+
+**Exemplo 5**:
+```
+Bobbio (1995, p. 30) com muita propriedade nos lembra, ao comentar esta situação, que os “juristas medievais justificaram formalmente a validade do direito romano ponderando que este era o direito do Império Romano que tinha sido reconstituído por Carlos Magno com o nome de Sacro Império Romano”.
+```
+
+### 6.1.5 Para autores com o mesmo sobrenome e data de publicação, devem-se acrescentar as iniciais de seus prenomes. Se persistir a coincidência, colocam-se os prenomes por extenso.
+
+**Exemplo 1**:
+```
+(Barbosa, C., 1958)
+(Barbosa, O., 1958)
+```
+
+**Exemplo 2**:
+```
+(Barbosa, Cássio, 1965)
+(Barbosa, Celso, 1965)
+```
+
+**Exemplo 3**:
+```
+De acordo com Cássio Barbosa (1965) e Celso Barbosa (1965)
+```
+
+**Exemplo 4**:
+```
+Segundo O. Barbosa (1958)
+Segundo C. Barbosa (1958)
+```
+
+### 6.1.6 As citações de diversos documentos da mesma autoria, publicados em um mesmo ano, devem ser distinguidas pelo acréscimo de letras minúsculas, em ordem alfabética, após a data e sem espacejamento, conforme a lista de referências.
+
+**Exemplo 1**:
+```
+De acordo com Reeside (1927a)
+(Reeside, 1927b)
+```
+
+**Exemplo 2**:
+```
+A Secretaria Nacional da Atenção Especializada do Ministério da Saúde engloba atenção hospitalar e domiciliar (Brasil, 2005b). A informação foi repassada pela Secretaria Nacional de Atenção Básica do Ministério da Saúde (Brasil, 2005a).
+```
+
+### 6.1.7 As chamadas de citações indiretas de diversos documentos da mesma autoria, publicados em anos diferentes e mencionados simultaneamente, devem ter as suas datas em ordem cronológica, separadas por vírgula.
+
+**Exemplo 1**:
+```
+(Dreyfuss, 1989, 1991, 1995)
+```
+
+**Exemplo 2**:
+```
+(Cruz; Correa; Costa, 1998, 1999, 2000)
+```
+
+**Exemplo 3**:
+```
+Cruz, Correa e Costa (1998, 1999, 2000)
+```
+
+### 6.1.8 As chamadas de citações indiretas de diversos documentos de vários autores, mencionadas simultaneamente dentro dos parênteses, devem ser separadas por ponto e vírgula. Recomenda-se a indicação em ordem alfabética.
+
+**Exemplo 1**:
+```
+Ela polariza e encaminha, sob a forma de demanda coletiva, as necessidades de todos (Fonseca, 1997; Paiva, 1997; Silva, 1997).
+```
+
+**Exemplo 2**:
+```
+Diversos autores salientam a importância
+
+ do acontecimento desencadeador no início de um processo de aprendizagem (Cross, 1984; Knox, 1986; Mezirow, 1991).
+```
+
+**Exemplo 3**:
+```
+Quando se observam os estudos longitudinais sobre a saúde mental do estudante de medicina, os resultados parecem ser um pouco diferentes, pois, apesar de as pesquisas já indicarem alto nível de sofrimento psíquico no estudante de primeiro ano, é comum que esse sofrimento psíquico aumente no decorrer do curso e, muitas vezes, volte a diminuir no final (Costa; Mendes; Andrade, 2017; Fiorotti et al., 2010; Rocha; Sassi, 2013).
+```
+
+### 6.2 Sistema numérico
+
+Deve ser conforme 6.2.1 a 6.2.4.
+
+#### 6.2.1 No sistema numérico
+
+A numeração da fonte consultada deve ser consecutiva, em algarismo arábico, remetendo à lista de referências ao final do documento, do capítulo ou da parte, na mesma ordem em que aparece no texto. A numeração não pode ser reiniciada a cada página. A fonte consultada, quando repetida, deve ser representada pela mesma numeração.
+
+**Exemplo**:
+```
+No texto:
+Segundo Hawking, o progresso tecnológico, possível graças aos avanços na ciência básica, foi causa de mudanças nos últimos cem anos e, ainda segundo o autor, ninguém melhor do que Albert Einstein simboliza esses avanços1.
+O primeiro modelo matemático para o tempo e espaço é obra de Isaac Newton, publicado há mais de 300 anos, em 16871.
+
+Na lista de referências:
+1 HAWKING, Stephen. O universo numa casca de noz. 4. ed. Tradução: Ivo Korytowski. São Paulo: Arx, 2001. 215 p. Título original: The universe in a nutshell.
+```
+
+#### 6.2.2 O sistema numérico não pode ser utilizado quando houver notas.
+
+#### 6.2.3 A indicação da numeração pode ser feita entre parênteses, alinhada ao texto, ou em expoente.
+
+**Exemplo 1**:
+```
+Diz Rui Barbosa: “[...] tudo é viver, previvendo [...]” (15, p. 34).
+Diz Rui Barbosa: “[...] tudo é viver, previvendo [...]”15, p. 34.
+```
+
+**Exemplo 2**:
+```
+No texto:
+Por meio da compra, o Banco Central concede moeda pelos títulos, aumentando a oferta de crédito, o valor dos títulos, diminuindo a taxa de juros (5, 7).
+
+Na lista de referências:
+5 CARVALHO, C. E.; OLIVEIRA, G. C.; MONTEIRO, M. B. O Banco Central do Brasil: institucionalidade, relações com a sociedade civil, autonomia e controle democrático. IPEA: texto para discussão, Rio de Janeiro, v. 1, n. 1518, p. 1-73, dez. 2010.
+6 BADE, R.; PARKIN, M. Central Bank lows and monetary policy. Ontario: University of Western Ontario, 1985.
+7 BANCO CENTRAL DO BRASIL. Departamento de Relacionamento com Investidores e Estudos Especiais. Funções do Banco Central do Brasil. Brasília, DF: Banco Central, 2016.
+```
+
+#### 6.2.4 Em citação direta, o número da página ou localizador, se houver, deve ser indicado após o número da fonte no texto, separado por vírgula e um espaço. O número da página deve ser precedido pela letra "p" em minúscula, acompanhada de ponto (p.). O número do localizador, em publicações eletrônicas, deve ser precedido pela respectiva abreviatura (local.).
+
+**Exemplo 1**:
+```
+No texto:
+“No Brasil, o Amapá foi um estado pioneiro no reconhecimento dos direitos territoriais indígenas” (1, p. 30).
+
+Na lista de referências:
+1 GALLOIS, Dominique Tilkin; GRUPIONI, Denise Fajardo. Povos indígenas no Amapá e norte do Pará: quem são, onde estão, quantos são, como vivem e o que pensam? São Paulo: lepé, 2005.
+```
+
+**Exemplo 2**:
+```
+No texto:
+Em conjunto, os dez povos indígenas que vivem no interior do Amapá e norte do Pará encontram-se, atualmente, no interior da região em que o Brasil faz fronteira com a Guiana Francesa e o Suriname 1, p. 26.
+
+Na lista de referências:
+1 GALLOIS, Dominique Tilkin; GRUPIONI, Denise Fajardo. Povos indígenas no Amapá e norte do Pará: quem são, onde estão, quantas são, como vivem e o que pensam? São Paulo: lepé, 2005.
+```
+
+**Exemplo 3**:
+```
+“O ensino híbrido, ou blended learning, pede que o professor reveja a organização da sala de aula, a elaboração do seu plano pedagógico e a gestão do tempo das suas aulas” (7, local. 72).
+```
+
+### 7. Citação
+
+Deve ser conforme 7.1 a 7.3.
+
+#### 7.1 Citação direta
+
+As citações diretas no texto, de até três linhas, devem estar contidas entre aspas duplas. As aspas simples são utilizadas para indicar citação no interior da citação. A indicação da fonte deve ser conforme o sistema de chamada adotado (ver 6.1 e 6.2).
+
+**Exemplo 1**:
+```
+Barbour (1971, p. 35) descreve: “o estudo da morfologia dos terrenos [...] ativos [...]”.
+```
+
+**Exemplo 2**:
+```
+Segundo Sá, “[...] por meio da mesma ‘arte de conversação’ que abrange tão extensa e significativa parte da nossa existência cotidiana [...]”3, p. 27.
+```
+
+**Exemplo 3**:
+```
+Canuto (1999, p. 15) afirma que seu trabalho “[...] surgiu de uma paixão incontrolável”.
+```
+
+**Exemplo 4**:
+```
+“A representação autobiográfica da infância oscila entre a idade do ouro e o inferno” (Larreta; Giucci, 2007, p. 17).
+```
+
+**Exemplo 5**:
+```
+“Tu, porém, quando deres esmola, [...] e teu Pai, que vê no segredo, te recompensará” (Bíblia [...], 2011, Mt 6, 3-6, p. 1713).
+```
+
+**Exemplo 6**:
+```
+“O Poder Executivo envidará esforços no sentido de antecipar a entrega do plano previsto no caput deste artigo em pelo menos 15 dias” (Brasil, 1999).
+
+Nota: A fonte consultada, neste Exemplo 6, não é paginada.
+```
+
+**Exemplo 7**:
+```
+“O ensino híbrido, ou blended learning, pede que o professor reveja a organização da sala de aula, a elaboração do seu plano pedagógico e a gestão do tempo das suas aulas” (7, local. 72).
+```
+
+#### 7.1.1 A citação direta, com mais de três linhas, deve ser destacada com recuo padronizado em relação à margem esquerda, com letra menor que a utilizada no texto, em espaço simples e sem aspas. Recomenda-se o recuo de 4 cm.
+
+**Exemplo**:
+```
+A teleconferência permite ao indivíduo participar de um encontro nacional ou regional sem a necessidade de deixar seu local de origem. Tipos comuns de teleconferência incluem o uso da televisão, telefone, e computador. Através de áudio-conferência, utilizando a companhia local de telefone, um sinal de áudio pode ser emitido em um salão de qualquer dimensão (Nichols, 1993, p. 181).
+```
+
+#### 7.1.2 O ponto final deve ser usado para encerrar a frase e não a citação.
+
+**Exemplo 1**:
+```
+“Não se mova, faça de conta que está morta” (Clarac; Bonnin, 1985, p. 72).
+```
+
+**Exemplo 2**:
+```
+Bothwel (1963, p. 37) ressalta: “[...] lamento profundamente os sofrimentos que vós e todos os trabalhadores da Europa tivestes de suportar [...]”.
+```
+
+**Exemplo 3**:
+```
+“Pensamentos valem e vivem pela observação exata ou nova [...]” (Assis, 1997 apud Canuto, 1999, p. 6).
+```
+
+#### 7.1.3 Volume, tomo e/ou seção, se houver, devem ser indicados precedidos pelo termo que os caracteriza, de forma abreviada, antes da página. Volume e número de publicações periódicas não podem ser indicados.
+
+**Exemplo 1**:
+```
+“As roupas clássicas são mais apropriadas. Os decotes em V, os tons escuros, as listas verticais alongam a silhueta” (Senac, 1979, v. 1, p. 16).
+```
+
+**Exemplo 2**:
+```
+Meyer parte de uma passagem da crônica de “14 de maio”, de A Semana: “Houve sol, e grande sol, naquele domingo de 1888, em que o Senado votou a lei, que a regente sancionou [...]” (Assis, 1994, v. 3, p. 583).
+```
+
+#### 7.1.4 Para citações diretas de documentos não paginados, convém que se indique a localização do trecho citado, conforme consta no documento.
+
+**Exemplo 1**:
+```
+“[...] a transmissão total compreende todos os direitos de autor, salvo os de natureza moral e os expressamente excluídos por lei [...]” (Brasil, 1998, cap. V, art. 49, inc. I).
+```
+
+**Exemplo 2**:
+```
+“Na década de 1930, Piaget desenvolve um programa de pesquisa experimental junto aos seus três filhos [...]” (Dongo-Montoya, 2009, local. 264).
+```
+
+**Exemplo 3**:
+```
+“Mas eu não quero ser nem bandido nem policial [...] eu tenho medo de tomar tiro” (Cidade [...], 2002, 9 min 41 s).
+```
+
+#### 7.1.5 Para enfatizar trechos da citação direta, deve-se destacá-los com uma das seguintes expressões: grifo nosso ou grifo próprio, como último elemento da chamada da citação. Quando o texto transcrito já tiver destaque, não existe necessidade de informar o grifo.
+
+**Exemplo**:
+```
+“[...] para que não tenha lugar a producção de degenerados, quer physicos quer moraes, misérias, verdadeiras ameaças à sociedade” (Souto, 1916, p. 46, grifo nosso).
+```
+
+#### 7.1.6 Ao traduzir trecho de uma obra consultada, deve-se indicar a tradução com uma das seguintes expressões: tradução nossa ou tradução própria, como último elemento da chamada da citação.
+
+**Exemplo**:
+```
+Paradoxos são desconcertantes. Confrontados com um argumento aparentemente impecável que conduz a uma conclusão aparentemente ultrajante, ficamos confusos e perplexos. Por um lado, a conclusão parece
+
+ falsa; por outro, parece ter de ser verdadeira. [...] Essa é a fonte do nosso fascínio; é por isso que há um problema (Olin, 2003, p. 21, tradução nossa).
+```
+
+#### 7.1.7 Para entrevistas e/ou depoimentos, convém que sejam adotadas as regras descritas em 6.1.1 e 6.1.2, conforme o caso. Quando houver necessidade, omitir o nome do entrevistado. Conforme 5.3, a transcrição de entrevistas e/ou depoimentos não publicados formalmente não gera referência.
+
+**Exemplo**:
+```
+“A família é um núcleo de convivência, unido por laços afetivos, que normalmente compartilha o mesmo teto” (Entrevistado A).
+```
+
+#### 7.2 Citação indireta
+
+A indicação da fonte deve ser conforme o sistema de chamada adotado. A indicação do número da página ou localização é opcional (ver 6.1 e 6.2).
+
+**Exemplo 1**:
+```
+Identificaram-se diversos estudos que tratavam do comportamento informacional dos usuários de bibliotecas universitárias (Gonçalves, 2019).
+```
+
+**Exemplo 2**:
+```
+Conforme a classificação proposta por Authier-Revuz (1982), a ironia seria assim uma forma implícita de heterogeneidade mostrada.
+```
+
+**Exemplo 3**:
+```
+Os autores Antunes (2016), Bezerra (2019) e Silva (2017) abordam a temática da área da Psicologia da Administração.
+```
+
+**Exemplo 4**:
+```
+Os textos científicos passaram a ser elaborados com o uso do plural da modéstia, que é o emprego da 1ª pessoa do plural quando o autor do texto faz referência a si mesmo e impessoaliza a participação no processo12, p. 200.
+```
+
+#### 7.3 Citação de citação
+
+Os elementos devem ser indicados na seguinte ordem: autoria ou a primeira palavra do título; data; página do documento original, se houver; a expressão *apud*; autoria ou a primeira palavra do título; data; página da fonte consultada, se houver. Na lista de referências elencar somente a fonte consultada.
+
+**Exemplo 1**:
+```
+Segundo Freire (1994, p. 13 apud Streck; Redin; Zitkoski, 2017, p. 25), “[...] a pedagogia do oprimido como centro, me aparecem tão atuais quanto outros a que me refiro dos anos 80 e de hoje”.
+```
+
+**Exemplo 2**:
+```
+A ortografia surge exatamente de um ‘congelamento’ da grafia das palavras, fazendo com que ela perca sua característica básica de ser uma escrita pelos segmentos fonéticos, passando a ser a escrita de ‘uma palavra de forma fixa’, independente de como o escritor fala ou o leitor diz o que lê (Cagliari, 1986, p. 104 apud Suassuna, 1995, p. 55).
+```
+
+**Exemplo 3**:
+```
+Pela abordagem de Boss e Krauss (2007 apud Bender, 2014), as tecnologias de comunicação bem como as tecnologias de ensino são fundamentais para o desenvolvimento da aprendizagem baseada em projetos.
+```
+
+**Exemplo 4**:
+```
+Alguns objetivos apontados nas Diretrizes Curriculares Nacionais da Educação Básica são:
+I – sistematizar os princípios e diretrizes gerais da Educação Básica contidos na Constituição, na LDB e demais dispositivos legais, traduzindo-os em orientações que contribuam para assegurar a formação básica comum nacional, tendo como foco os sujeitos que dão vida ao currículo e à escola (Brasil, 2013, p. 7 apud Brasil, 2016, p. 7).
+```
+
+**Exemplo 5**:
+```
+De acordo com Cavalcante (1943 apud Menezes, 2015, p. 45), o Direito do Mar merece interpretação quanto a seu fundamento e obrigatoriedade, pois, conforme acentuado, embora tenha um vínculo profundo com o Direito Internacional, de viés essencialmente voluntarista, é certo que os Estados reconhecem o mar como um patrimônio comum da Humanidade, ou seja, como um espaço coletivo, supranacional, que deve ser administrado em benefício de todos os povos do mundo.
+```
+
+### 8. Notas
+
+As notas devem ser indicadas no texto por números arábicos sequenciais. Quando utilizadas, não pode ser empregado o sistema de chamada numérico de citações (ver 6.2). As notas podem estar localizadas no rodapé, nas margens da mancha gráfica ou no final do artigo, do capítulo ou do documento. As notas apresentadas no rodapé da página ou no final do capítulo, ou do artigo ou do documento devem ser alinhadas a partir da segunda linha da mesma nota, abaixo da primeira letra da primeira palavra, de forma a destacar o expoente, sem espaço entre elas e com fonte menor. Em notas de documentos digitais, também pode ser utilizado o recurso de hyperlink.
+
+As notas podem ser conforme 8.1 e 8.2.
+
+**Exemplo**:
+```
+1 Veja-se como exemplo desse tipo de abordagem o estudo de Netzer (1976).
+2 Encontramos esse tipo de perspectiva na 2ª parte do verbete referido na nota anterior, em grande parte do estudo de Rahner (1962).
+```
+
+#### 8.1 Notas de referência
+
+As notas de referência devem ter numeração única e consecutiva para cada capítulo ou parte. A numeração não pode ser iniciada a cada página.
+
+#### 8.1.1 A fonte consultada, quando citada pela primeira vez, deve ter sua referência completa em nota.
+
+**Exemplo**:
+```
+3 MINAYO, Maria Cecília de Souza. Violência e saúde. Rio de Janeiro: Editora Fiocruz, 2006.
+4 FARIA, José Eduardo (org.). Direitos humanos, direitos sociais e justiça. São Paulo: Malheiros, 1994.
+5 MINAYO, Maria Cecília de Souza. Cuidar de quem cuida de idosos dependentes: por uma política necessária e urgente. Ciência e Saúde Coletiva, Rio de Janeiro, v. 26, n. 1, p. 7-15, jan. 2021.
+```
+
+#### 8.1.2 As subsequentes citações da mesma fonte consultada podem ser referenciadas de forma abreviada, utilizando-se a chamada da referência anterior, em letras maiúsculas, conforme 8.1.2.1 e 8.1.2.2.
+
+#### 8.1.2.1 A nota que se refere a uma fonte de informação citada anteriormente pode repetir a referência completa ou indicar o número da nota anterior, precedido pela chamada e pela abreviatura ref., e, se necessário, pode ser indicado o número de página ou localização.
+
+**Exemplo**:
+```
+8 FARIA, José Eduardo (org.). Direitos humanos, direitos sociais e justiça. São Paulo: Malheiros, 1994.
+9 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Como fazer norma. São Paulo: ABNT, 2020.
+20 FARIA, ref. 8, p. 15.
+21 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, ref. 9, p. 20.
+```
+
+#### 8.1.2.2 A nota que se refere a uma fonte de informação citada e referenciada anteriormente pode ser indicada de forma abreviada, utilizando-se a chamada da referência anterior seguida do ano e, se houver, do número de página ou localização, se for citação direta. As notas subsequentes podem ser indicadas utilizando-se as seguintes expressões latinas:
+
+- **a) Idem**: deve ser usada quando a obra imediatamente anterior for da mesma autoria e documento diferente. A nota deve ser indicada pela abreviatura Id., seguida do ano e, se houver, número da página ou localização. A expressão Id. só pode ser usada na mesma página ou folha da citação a que se refere.
+
+**Exemplo**:
+```
+8 MINAYO, 2021, p. 9.
+9 Id., 2006, p. 12.
+```
+
+- **b) Ibidem**: deve ser usada quando a obra imediatamente anterior for da mesma autoria e do mesmo documento. A nota deve ser indicada pela abreviatura Ibid., seguida, se houver, do número da página ou localização. A expressão Ibid. só pode ser usada na mesma página ou folha da citação a que se refere.
+
+**Exemplo**:
+```
+15 MINAYO, 2006, p. 20.
+16 Ibid., p. 52.
+```
+
+- **c) Opus citatum, opere citato**: deve ser usada para a mesma obra, quando as citações não forem apresentadas de forma subsequente. A nota deve ser indicada pelo nome do autor, pela abreviatura op. cit., seguida, se houver, do número da página ou localização. Opus citatum não pode ser usada quando houver duas obras diferentes do mesmo autor na mesma página.
+
+**Exemplo 1**:
+```
+25 MINAYO, 2021, p. 54.
+26 FARIA, 1994.
+27 MINAYO, op. cit., p. 23.
+```
+
+**Exemplo 2**:
+```
+25 MINAYO, 2021, p. 54.
+26 FARIA, 1994.
+27 MINAYO, 2006, p. 23.
+28 MOREIRA, 2015.
+29 MINAYO, 2006.
+```
+
+- **d) Passim – aqui e ali**: deve ser usada quando a informação citada constar em diversos trechos de uma mesma fonte consultada.
+
+**Exemplo 1**:
+```
+3 GOMES, [202-], passim.
+```
+
+**Exemplo 2**:
+```
+10 BECHARA, 2009, passim.
+```
+
+- **e) Loco citato – no lugar citado**: deve ser usada quando a fonte e a localização exata já foram citadas anteriormente e as citações não foram apresentadas de forma subsequente. A nota deve ser indicada pelo nome do autor, seguido da abreviatura loc. cit.
+
+**Exemplo 1**:
+```
+21 SHAKESPEARE, 2016, v. 1, p. 1198.
+22 GOMES, 2002, p. 304.
+23 SHAKESPEARE, loc. cit.
+```
+
+**Exemplo 2**:
+```
+4 FIGUEIREDO, 1999, p. 19.
+5 SANCHEZ; CARAZAS, 2000, p. 2-3.
+6 FIGUEIREDO, loc. cit.
+7 SANCHEZ; CARAZAS, loc. cit.
+```
+
+**Exemplo 3**:
+```
+6 IBGE, [202-].
+7 PEREIRA, 2016, v. 6, p. 103.
+8 IBGE, loc. cit.
+
+Nota: No exemplo 3, a fonte IBGE não é paginada.
+```
+
+- **f) Conferre – confira, confronte**: deve ser usada como sugestão de consulta a uma determinada fonte para comparar, confrontar o assunto abordado. Deve ser indicada pela abreviatura Cf., seguida
+
+ pelo sobrenome do autor, ano e, se houver, número da página ou localização.
+
+**Exemplo 1**:
+```
+3 Cf. CALDEIRA, 1992.
+```
+
+**Exemplo 2**:
+```
+50 Cf. BECHARA, 2009, p. 337.
+```
+
+- **g) Sequentia – seguinte ou que segue**: usada para indicar a página citada e as páginas seguintes da obra consultada. A nota deve ser indicada pelo nome do autor, ano, página consultada e a abreviatura et seq.
+
+**Exemplo 1**:
+```
+7 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2020, p. 17 et seq.
+```
+
+#### 8.1.3 Apud – citado por
+
+Deve ser usada para indicar citação de citação (ver 7.3). Pode ser usada no texto. Deve ser indicada pela autoria e ano da fonte citada, expressão apud, seguida da autoria, ano e, se houver, número da página da fonte consultada.
+
+**Exemplo 1**:
+```
+10 EVANS, 1987 apud SAGE, 1992, p. 2-3.
+```
+
+**Exemplo 2**:
+```
+3 GHEBREYESUS, 2022 apud ORGANIZAÇÃO MUNDIAL DA SAÚDE, 2022.
+```
+
+#### 8.2 Notas explicativas
+
+As notas explicativas devem ter numeração consecutiva. Recomenda-se que a numeração seja iniciada a cada capítulo ou parte. A numeração não pode ser iniciada a cada página. Convém não utilizar simultaneamente nota explicativa com nota de referência. Caso sejam utilizados os dois tipos de notas, deve ser seguida a regra de nota de referência (ver 8.1).
+
+**Exemplo**:
+```
+No texto:
+O comportamento liminar correspondente à adolescência vem se constituindo numa das conquistas universais, como está, por exemplo, expresso no Estatuto da Criança e do Adolescente1.
+
+Na nota:
+___________
+1 Se a tendência à universalização das representações sobre a periodização dos ciclos de vida desrespeita a especificidade dos valores culturais de vários grupos, ela é condição para a constituição de adesões e grupos de pressão integrados à moralização de tais formas de inserção de crianças e de jovens.
+```
+
+### Anexo A (informativo)
+
+#### Lista de abreviaturas
+
+| Abreviatura | Significado                          |
+|-------------|--------------------------------------|
+| abr.        | abril                                |
+| art.        | artigo                               |
+| cap.        | capítulo                             |
+| cm          | centímetro                           |
+| dez.        | dezembro                             |
+| ed.         | edição, editor                       |
+| et al.      | et alii                              |
+| inc.        | inciso                               |
+| jan.        | janeiro                              |
+| jul.        | julho                                |
+| jun.        | junho                                |
+| local.      | localizador ou localização de documento eletrônico |
+| mar.        | março                                |
+| min         | minuto                               |
+| Mt          | Mateus                               |
+| n.          | número                               |
+| org.        | organizador, organizadores           |
+| p.          | página                               |
+| pt.         | parte                                |
+| ref.        | referência                           |
+| s           | segundo                              |
+| t.          | tomo                                 |
+| v.          | volume                               |
+
+Este é um resumo da norma ABNT NBR 10520:2023, que detalha as regras para citações em documentos. Para uma compreensão completa, é recomendável consultar o texto integral da norma.
+
