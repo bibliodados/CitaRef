@@ -1,0 +1,8 @@
+interface:
+  display_name: "CitaRef ABNT"
+  short_description: "Referências e citações ABNT com validação oficial"
+  brand_color: "#7C3AED"
+  default_prompt: "Use $citaref-abnt para elaborar uma referência ou citação conforme a ABNT e validar a fonte oficial."
+
+policy:
+  allow_implicit_invocation: true
