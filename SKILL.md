@@ -20,6 +20,13 @@ Leia somente a referência necessária para o pedido:
 
 As referências da skill ficam somente em `references/`, em formato Markdown.
 
+## Formatação das referências
+
+- Quando houver destaque tipográfico na referência, apresente o título destacado em **negrito**, usando `**...**`; não use itálico.
+- Aplique a mesma regra ao subtítulo quando ele fizer parte do título destacado.
+- Não aplique negrito à autoria, ao local, à editora, ao ano, à paginação, ao ISBN, ao DOI ou à URL.
+- Mantenha essa escolha de destaque de forma uniforme em todas as referências da mesma resposta.
+
 ## Fluxo de trabalho
 
 1. Identifique o objetivo: referência, citação, revisão de uma referência existente, autoria institucional ou ato publicado em Diário Oficial.
@@ -33,6 +40,17 @@ As referências da skill ficam somente em `references/`, em formato Markdown.
    - informe o link oficial direto;
    - classifique o acesso como API pública oficial documentada, base oficial de dados abertos, portal web de consulta/publicação ou API agregadora, somente quando houver evidência.
 6. Se um dado não for localizado, informe explicitamente “elemento não localizado no documento oficial” ou “ano do DOU não localizado no documento oficial”, conforme o caso.
+
+## Correção rápida
+
+- Se a mensagem do usuário consistir apenas em `2` depois de uma referência apresentada, interprete-a como pedido para revisar e corrigir a referência imediatamente anterior.
+- Na correção, reavalie os dados fornecidos e as fontes consultadas, não invente elementos ausentes e apresente a referência corrigida com os títulos em **negrito**.
+- Aponte objetivamente o que foi corrigido. Se não houver uma referência anterior identificável, solicite que o usuário a envie.
+
+## Confirmação final obrigatória
+
+- Ao final de toda resposta que apresente ou revise uma referência, mostre exatamente: `A referência esta correta? Caso não digite [2] para refazer`
+- Se o usuário responder apenas `2`, refaça a referência anterior conforme a seção `Correção rápida` e encerre novamente com a mesma frase de confirmação.
 
 ## Regras de autoria institucional
 
@@ -54,4 +72,3 @@ Salvo instrução diferente, entregue nesta ordem:
 6. `DADOS AUSENTES`, se houver elementos não confirmados
 
 Em revisões, mostre a forma corrigida e aponte objetivamente o que foi alterado. Não invente autor, data, edição, página, DOI, ISSN, URL ou qualquer outro elemento.
-
